@@ -1,0 +1,13 @@
+{
+    "display_name": "User As System",
+    "loading_order": 1001,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "experiment",
+    "version": "1.4.0",
+    "homePage": "",
+    "auto_update": false,
+    "generate_interceptor": "UserAsSystem_interceptGeneration"
+}
